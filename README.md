@@ -1,3 +1,12 @@
+# .ENV STRUCTURE
+Create a .env file in root directory having these 3 lines
+```
+API_URL_KEY="ALCHEMY APP HTTP URL"
+PRIVATE_KEY="METAMASK ACCOUNT PRIVATE KEY"
+API_KEY="ALCHEMY APP API KEY"
+```
+
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
